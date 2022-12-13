@@ -1,0 +1,5 @@
+# RFD-MQTT
+MOSQUITTO기반 RFD용 MQTT 구현
+
+# 생성 사항
+RFD-MQTT/RFDMQTT.c
