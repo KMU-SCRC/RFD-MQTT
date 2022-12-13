@@ -1,0 +1,7 @@
+﻿  RFDMQTT.c
+D:\PROJECT\RFDMQTT\RFDMQTT\RFDMQTT.c(526,58): warning C4267: '함수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\PROJECT\RFDMQTT\RFDMQTT\RFDMQTT.c(535,58): warning C4267: '함수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\PROJECT\RFDMQTT\RFDMQTT\RFDMQTT.c(554,62): warning C4267: '함수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\PROJECT\RFDMQTT\RFDMQTT\RFDMQTT.c(611,62): warning C4267: '함수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\PROJECT\RFDMQTT\RFDMQTT\RFDMQTT.c(634,58): warning C4267: '함수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  RFDMQTT.vcxproj -> D:\PROJECT\RFDMQTT\RFDMQTT\x64\Debug\RFDMQTT.exe
